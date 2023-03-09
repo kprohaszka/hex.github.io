@@ -43,7 +43,7 @@ paginate: 10
 paginate_path: /page:num/
 
 #Misc Settings
-skin: "/assets/css/skins/default.scss"
+#skin: "/assets/css/skins/default.scss"
 date_format: "%Y-%m-%d"
 read_time: true
 words_per_minute: 200
